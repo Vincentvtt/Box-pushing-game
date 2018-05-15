@@ -1,0 +1,6 @@
+#!/bin/sh
+
+javac @arg.txt
+echo 
+echo COMPILIN
+cat arg.txt

@@ -1,0 +1,4 @@
+.anchorpane {
+    -fx-background-image: url("assets/Ground/ground_06.png");
+    -fx-background-repeat: repeat;
+}
